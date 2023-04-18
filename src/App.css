@@ -1,0 +1,23 @@
+
+.App {
+  text-align: center;
+  background-color: rgb(243, 109, 13);
+  
+}
+
+
+
+body{
+  font-family: 'montseratt',sans-serif;
+}
+
+.app{
+  background-image: url('./Components/img/img1.jpg')
+  backgroung-size cover;
+  background-position:bottom;
+  transition:0.4 ease-out;
+
+}
+main{
+  min-height: 100vh;
+}
